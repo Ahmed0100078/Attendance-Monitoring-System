@@ -113,5 +113,6 @@ namespace Military_Info
             da.Fill(dt);
             dataGridView1.DataSource = dt;
         }
+
     }
 }

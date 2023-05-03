@@ -16,7 +16,7 @@ namespace Military_Info
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new RECInstitute());
+            Application.Run(new Form2());
         }
     }
 }
